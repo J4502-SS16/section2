@@ -1,2 +1,4 @@
 # section2
-Elizabeth's section for spring 2016
+This is the repository for Elizabeth's section of the class.
+
+You'll find information about readings and examples from class here.
